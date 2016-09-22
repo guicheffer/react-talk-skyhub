@@ -1,5 +1,5 @@
 class: center, middle
 
-# Concept proof
+# Proof of concept
 
 ---
